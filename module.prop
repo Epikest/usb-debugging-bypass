@@ -1,0 +1,6 @@
+id=usb-debugging-bypass
+name=USB Debugging Bypass
+version=0.0.0
+versionCode=0
+author=epik
+description=Set adb_enabled to 2 bypass some apps that check the USB debugging status
